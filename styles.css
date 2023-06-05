@@ -113,7 +113,6 @@ body {
     --border-radius: 2rem;
     max-width: 46rem;
     display: grid;
-    margin-bottom: -9rem;
 }
 
 @media (min-width: 600px) {
@@ -230,13 +229,12 @@ body {
 
 /* footer */
 .attribution{
-    margin-top: 16px;
-    font-size: 1rem;
+    font-size: .8rem;
     text-align: center;
 }
 
 .attribution > b {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .attribution > b:hover,
